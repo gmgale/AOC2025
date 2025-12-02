@@ -50,7 +50,7 @@ case 2:
     day2.Solve()
 ```
 
-## Adding Your Solution
+## Adding A Solution
 
 1. Put your puzzle input in `day_X/input.txt`
 2. Implement `part1()` and `part2()` functions in `day_X/dayX.go`
